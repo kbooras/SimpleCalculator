@@ -10,17 +10,9 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/sign"
-        android:layout_width="30dp"
-        android:layout_height="80dp"
-        android:gravity="center_vertical"
-        android:textSize="60sp"/>
-
-    <TextView
         android:id="@+id/calcView"
-        android:layout_width="300dp"
+        android:layout_width="350dp"
         android:layout_height="80dp"
-        android:layout_toRightOf="@+id/sign"
         android:gravity="right|center_vertical"
         android:textSize="60sp"/>
 
